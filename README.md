@@ -1,11 +1,11 @@
-# Autonomous Network Defense System
+# Autonomous-Network-Security-Monitoring-System
 
 This project consists of a simple autonomous network defense system that captures network traffic, detects anomalies, blocks suspicious traffic, detects/prevents ARP spoofing, and displays open ports.
 
 ## Project Structure
 
 ```bash
-autonomous-network-defense/
+Autonomous-Network-Security-Monitoring-System/
 │
 ├── backend/
 │   ├── app.py  # Flask server
